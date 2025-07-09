@@ -1,0 +1,879 @@
+[
+  {"name": "Chicken Breast", "calories": 165, "protein": 31, "carbs": 0, "fats": 3, "category": "Lunch"},
+  {"name": "Brown Rice", "calories": 216, "protein": 5, "carbs": 44, "fats": 2, "category": "Dinner"},
+  {"name": "Greek Yogurt", "calories": 100, "protein": 17, "carbs": 6, "fats": 0, "category": "Breakfast"},
+  {"name": "Almonds", "calories": 160, "protein": 6, "carbs": 6, "fats": 14, "category": "Snack"},
+  {"name": "Oatmeal", "calories": 150, "protein": 5, "carbs": 27, "fats": 3, "category": "Breakfast"},
+  {"name": "Apple", "calories": 95, "protein": 0, "carbs": 25, "fats": 0, "category": "Snack"},
+  {"name": "Salmon", "calories": 206, "protein": 22, "carbs": 0, "fats": 12, "category": "Dinner"},
+  {"name": "Quinoa", "calories": 120, "protein": 4, "carbs": 21, "fats": 2, "category": "Lunch"},
+  {"name": "Eggs (2)", "calories": 156, "protein": 13, "carbs": 1, "fats": 11, "category": "Breakfast"},
+  {"name": "Avocado", "calories": 234, "protein": 3, "carbs": 12, "fats": 21, "category": "Snack"},
+  {"name": "Turkey Breast", "calories": 125, "protein": 26, "carbs": 0, "fats": 1, "category": "Lunch"},
+  {"name": "Sweet Potato", "calories": 103, "protein": 2, "carbs": 24, "fats": 0, "category": "Dinner"},
+  {"name": "Cottage Cheese", "calories": 98, "protein": 11, "carbs": 3, "fats": 4, "category": "Breakfast"},
+  {"name": "Carrots", "calories": 25, "protein": 1, "carbs": 6, "fats": 0, "category": "Snack"},
+  {"name": "Tuna (canned)", "calories": 100, "protein": 22, "carbs": 0, "fats": 1, "category": "Lunch"},
+  {"name": "Whole Wheat Pasta", "calories": 174, "protein": 7, "carbs": 37, "fats": 1, "category": "Dinner"},
+  {"name": "Protein Shake", "calories": 120, "protein": 24, "carbs": 3, "fats": 1, "category": "Snack"},
+  {"name": "Pancakes (2)", "calories": 175, "protein": 6, "carbs": 29, "fats": 4, "category": "Breakfast"},
+  {"name": "Hummus (2 tbsp)", "calories": 70, "protein": 2, "carbs": 4, "fats": 5, "category": "Snack"},
+  {"name": "Beef Steak", "calories": 271, "protein": 25, "carbs": 0, "fats": 18, "category": "Dinner"},
+  {"name": "Barley", "calories": 193, "protein": 3, "carbs": 44, "fats": 1, "category": "Lunch"},
+  {"name": "Smoothie (fruit)", "calories": 180, "protein": 2, "carbs": 40, "fats": 1, "category": "Breakfast"},
+  {"name": "Celery Sticks", "calories": 14, "protein": 1, "carbs": 3, "fats": 0, "category": "Snack"},
+  {"name": "Shrimp", "calories": 99, "protein": 24, "carbs": 0, "fats": 1, "category": "Lunch"},
+  {"name": "Lentil Soup", "calories": 159, "protein": 9, "carbs": 25, "fats": 3, "category": "Dinner"},
+  {"name": "Bagel", "calories": 245, "protein": 9, "carbs": 47, "fats": 1, "category": "Breakfast"},
+  {"name": "Granola Bar", "calories": 100, "protein": 2, "carbs": 18, "fats": 3, "category": "Snack"},
+  {"name": "Pork Chop", "calories": 231, "protein": 26, "carbs": 0, "fats": 13, "category": "Dinner"},
+  {"name": "Brown Bread (2 slices)", "calories": 138, "protein": 6, "carbs": 24, "fats": 2, "category": "Lunch"},
+  {"name": "French Toast (2)", "calories": 196, "protein": 8, "carbs": 24, "fats": 7, "category": "Breakfast"},
+  {"name": "Trail Mix (1/4 cup)", "calories": 160, "protein": 4, "carbs": 14, "fats": 10, "category": "Snack"},
+  {"name": "Chicken Salad", "calories": 220, "protein": 20, "carbs": 6, "fats": 12, "category": "Lunch"},
+  {"name": "Veggie Stir Fry", "calories": 180, "protein": 6, "carbs": 22, "fats": 7, "category": "Dinner"},
+  {"name": "Yogurt Parfait", "calories": 150, "protein": 8, "carbs": 20, "fats": 3, "category": "Breakfast"},
+  {"name": "Apple Slices with PB (1 tbsp)", "calories": 120, "protein": 2, "carbs": 12, "fats": 8, "category": "Snack"},
+  {"name": "Beef Tacos (2)", "calories": 300, "protein": 20, "carbs": 20, "fats": 15, "category": "Dinner"},
+  {"name": "Quinoa Salad", "calories": 210, "protein": 6, "carbs": 30, "fats": 7, "category": "Lunch"},
+  {"name": "Egg White Omelette", "calories": 90, "protein": 15, "carbs": 2, "fats": 1, "category": "Breakfast"},
+  {"name": "Rice Cakes (2)", "calories": 70, "protein": 1, "carbs": 14, "fats": 0, "category": "Snack"},
+  {"name": "Grilled Turkey Burger", "calories": 200, "protein": 22, "carbs": 5, "fats": 10, "category": "Lunch"},
+  {"name": "Spaghetti Bolognese", "calories": 350, "protein": 18, "carbs": 45, "fats": 12, "category": "Dinner"},
+  {"name": "Chia Pudding", "calories": 180, "protein": 6, "carbs": 15, "fats": 9, "category": "Breakfast"},
+  {"name": "Edamame (1 cup)", "calories": 189, "protein": 17, "carbs": 15, "fats": 8, "category": "Snack"},
+  {"name": "Fish Tacos (2)", "calories": 290, "protein": 20, "carbs": 25, "fats": 12, "category": "Dinner"},
+  {"name": "Chicken Wrap", "calories": 250, "protein": 18, "carbs": 30, "fats": 8, "category": "Lunch"},
+  {"name": "Protein Pancakes", "calories": 220, "protein": 20, "carbs": 25, "fats": 5, "category": "Breakfast"},
+  {"name": "Dark Chocolate (2 squares)", "calories": 120, "protein": 1, "carbs": 13, "fats": 8, "category": "Snack"},
+  {"name": "Tofu Stir Fry", "calories": 200, "protein": 15, "carbs": 20, "fats": 8, "category": "Dinner"},
+  {"name": "Veggie Sandwich", "calories": 240, "protein": 8, "carbs": 36, "fats": 6, "category": "Lunch"},
+  {"name": "Avocado Toast", "calories": 275, "protein": 7, "carbs": 30, "fats": 15, "category": "Breakfast"},
+  {"name": "Popcorn (3 cups)", "calories": 93, "protein": 3, "carbs": 18, "fats": 1, "category": "Snack"},
+  {"name": "Shrimp Tacos", "calories": 280, "protein": 22, "carbs": 24, "fats": 10, "category": "Dinner"},
+  {"name": "Pita with Hummus", "calories": 220, "protein": 7, "carbs": 30, "fats": 8, "category": "Lunch"},
+  {"name": "Cereal with Milk", "calories": 160, "protein": 6, "carbs": 24, "fats": 3, "category": "Breakfast"},
+  {"name": "Protein Bar", "calories": 200, "protein": 20, "carbs": 22, "fats": 7, "category": "Snack"},
+  {"name": "Roast Beef", "calories": 220, "protein": 26, "carbs": 0, "fats": 12, "category": "Dinner"},
+  {"name": "Sushi Roll", "calories": 200, "protein": 8, "carbs": 30, "fats": 2, "category": "Lunch"},
+  {"name": "Bagel with Cream Cheese", "calories": 300, "protein": 10, "carbs": 38, "fats": 12, "category": "Breakfast"},
+  {"name": "Fruit Salad", "calories": 120, "protein": 2, "carbs": 30, "fats": 1, "category": "Snack"},
+  {"name": "Beef Chili", "calories": 250, "protein": 20, "carbs": 20, "fats": 10, "category": "Dinner"},
+  {"name": "Chicken Quesadilla", "calories": 350, "protein": 22, "carbs": 30, "fats": 15, "category": "Lunch"},
+  {"name": "French Omelette", "calories": 180, "protein": 12, "carbs": 2, "fats": 14, "category": "Breakfast"},
+  {"name": "Yogurt with Berries", "calories": 140, "protein": 8, "carbs": 18, "fats": 3, "category": "Snack"},
+  {"name": "Grilled Lamb", "calories": 280, "protein": 25, "carbs": 0, "fats": 18, "category": "Dinner"},
+  {"name": "Caesar Salad", "calories": 180, "protein": 7, "carbs": 10, "fats": 12, "category": "Lunch"},
+  {"name": "Smoothie Bowl", "calories": 250, "protein": 6, "carbs": 40, "fats": 7, "category": "Breakfast"},
+  {"name": "Cheese Sticks", "calories": 80, "protein": 6, "carbs": 1, "fats": 6, "category": "Snack"},
+  {"name": "Pasta Primavera", "calories": 300, "protein": 10, "carbs": 50, "fats": 6, "category": "Dinner"},
+  {"name": "Tuna Salad", "calories": 200, "protein": 18, "carbs": 5, "fats": 12, "category": "Lunch"},
+  {"name": "Granola with Yogurt", "calories": 210, "protein": 9, "carbs": 30, "fats": 6, "category": "Breakfast"},
+  {"name": "Veggie Chips", "calories": 120, "protein": 2, "carbs": 14, "fats": 6, "category": "Snack"},
+  {"name": "BBQ Chicken", "calories": 230, "protein": 24, "carbs": 5, "fats": 10, "category": "Dinner"},
+  {"name": "Falafel Wrap", "calories": 280, "protein": 10, "carbs": 35, "fats": 12, "category": "Lunch"},
+  {"name": "Breakfast Burrito", "calories": 320, "protein": 14, "carbs": 38, "fats": 12, "category": "Breakfast"},
+  {"name": "Rice Pudding", "calories": 150, "protein": 3, "carbs": 30, "fats": 2, "category": "Snack"},
+  {"name": "Steak Fajitas", "calories": 330, "protein": 25, "carbs": 28, "fats": 14, "category": "Dinner"},
+  
+  {
+    "name": "Nut Mix (3 servings)",
+    "calories": 322,
+    "protein": 25,
+    "carbs": 33,
+    "fats": 10,
+    "category": "Snack"
+  },
+  {
+    "name": "Avocado Smoothie (2 servings)",
+    "calories": 416,
+    "protein": 18,
+    "carbs": 50,
+    "fats": 16,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Zucchini Lasagna (2 servings)",
+    "calories": 366,
+    "protein": 11,
+    "carbs": 49,
+    "fats": 14,
+    "category": "Lunch"
+  },
+  {
+    "name": "Banana Pancakes (3 serving)",
+    "calories": 203,
+    "protein": 20,
+    "carbs": 6,
+    "fats": 11,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Paneer Wrap (1 serving)",
+    "calories": 380,
+    "protein": 26,
+    "carbs": 24,
+    "fats": 20,
+    "category": "Lunch"
+  },
+  {
+    "name": "Turkey Sandwich (3 servings)",
+    "calories": 306,
+    "protein": 16,
+    "carbs": 47,
+    "fats": 6,
+    "category": "Lunch"
+  },
+  {
+    "name": "Stuffed Peppers (2 servings)",
+    "calories": 335,
+    "protein": 22,
+    "carbs": 37,
+    "fats": 11,
+    "category": "Dinner"
+  },
+  {
+    "name": "Grilled Tilapia (3 serving)",
+    "calories": 235,
+    "protein": 22,
+    "carbs": 12,
+    "fats": 11,
+    "category": "Dinner"
+  },
+  {
+    "name": "Fruit Chips (3 serving)",
+    "calories": 168,
+    "protein": 20,
+    "carbs": 22,
+    "fats": 0,
+    "category": "Snack"
+  },
+  {
+    "name": "Nut Mix (2 servings)",
+    "calories": 350,
+    "protein": 30,
+    "carbs": 35,
+    "fats": 10,
+    "category": "Snack"
+  },
+  {
+    "name": "Avocado Smoothie (2 servings)",
+    "calories": 348,
+    "protein": 23,
+    "carbs": 19,
+    "fats": 20,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Paneer Wrap (3 serving)",
+    "calories": 217,
+    "protein": 5,
+    "carbs": 47,
+    "fats": 1,
+    "category": "Lunch"
+  },
+  {
+    "name": "Broccoli Soup (1 servings)",
+    "calories": 175,
+    "protein": 5,
+    "carbs": 32,
+    "fats": 3,
+    "category": "Lunch"
+  },
+  {
+    "name": "Banana Pancakes (1 servings)",
+    "calories": 183,
+    "protein": 2,
+    "carbs": 19,
+    "fats": 11,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Cottage Cheese Toast (2 servings)",
+    "calories": 375,
+    "protein": 28,
+    "carbs": 50,
+    "fats": 7,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Chicken Alfredo (3 servings)",
+    "calories": 220,
+    "protein": 16,
+    "carbs": 39,
+    "fats": 0,
+    "category": "Dinner"
+  },
+  {
+    "name": "Avocado Smoothie (3 servings)",
+    "calories": 172,
+    "protein": 19,
+    "carbs": 24,
+    "fats": 0,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Fruit Chips (2 servings)",
+    "calories": 132,
+    "protein": 24,
+    "carbs": 9,
+    "fats": 0,
+    "category": "Snack"
+  },
+  {
+    "name": "Grilled Tilapia (1 serving)",
+    "calories": 330,
+    "protein": 29,
+    "carbs": 49,
+    "fats": 2,
+    "category": "Dinner"
+  },
+  {
+    "name": "Avocado Smoothie (2 servings)",
+    "calories": 208,
+    "protein": 3,
+    "carbs": 22,
+    "fats": 12,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Spinach Omelette (2 serving)",
+    "calories": 90,
+    "protein": 5,
+    "carbs": 13,
+    "fats": 2,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Peanut Butter Balls (2 serving)",
+    "calories": 339,
+    "protein": 7,
+    "carbs": 44,
+    "fats": 15,
+    "category": "Snack"
+  },
+  {
+    "name": "Spinach Omelette (1 servings)",
+    "calories": 160,
+    "protein": 19,
+    "carbs": 3,
+    "fats": 8,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Peanut Butter Balls (3 serving)",
+    "calories": 177,
+    "protein": 17,
+    "carbs": 7,
+    "fats": 9,
+    "category": "Snack"
+  },
+  {
+    "name": "Spinach Omelette (2 serving)",
+    "calories": 129,
+    "protein": 2,
+    "carbs": 1,
+    "fats": 13,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Peanut Butter Balls (2 serving)",
+    "calories": 381,
+    "protein": 10,
+    "carbs": 47,
+    "fats": 17,
+    "category": "Snack"
+  },
+  {
+    "name": "Peanut Butter Balls (3 serving)",
+    "calories": 324,
+    "protein": 24,
+    "carbs": 48,
+    "fats": 4,
+    "category": "Snack"
+  },
+  {
+    "name": "Boiled Eggs (2 servings)",
+    "calories": 123,
+    "protein": 17,
+    "carbs": 7,
+    "fats": 3,
+    "category": "Snack"
+  },
+  {
+    "name": "Banana Pancakes (3 servings)",
+    "calories": 219,
+    "protein": 6,
+    "carbs": 6,
+    "fats": 19,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Peanut Butter Balls (1 serving)",
+    "calories": 371,
+    "protein": 29,
+    "carbs": 39,
+    "fats": 11,
+    "category": "Snack"
+  },
+  {
+    "name": "Paneer Wrap (1 serving)",
+    "calories": 262,
+    "protein": 6,
+    "carbs": 19,
+    "fats": 18,
+    "category": "Lunch"
+  },
+  {
+    "name": "Stuffed Peppers (2 servings)",
+    "calories": 202,
+    "protein": 6,
+    "carbs": 40,
+    "fats": 2,
+    "category": "Dinner"
+  },
+  {
+    "name": "Nut Mix (1 servings)",
+    "calories": 168,
+    "protein": 5,
+    "carbs": 19,
+    "fats": 8,
+    "category": "Snack"
+  },
+  {
+    "name": "Mutton Curry (2 serving)",
+    "calories": 140,
+    "protein": 2,
+    "carbs": 6,
+    "fats": 12,
+    "category": "Dinner"
+  },
+  {
+    "name": "Paneer Wrap (2 servings)",
+    "calories": 399,
+    "protein": 30,
+    "carbs": 27,
+    "fats": 19,
+    "category": "Lunch"
+  },
+  {
+    "name": "Zucchini Lasagna (1 serving)",
+    "calories": 252,
+    "protein": 7,
+    "carbs": 11,
+    "fats": 20,
+    "category": "Lunch"
+  },
+  {
+    "name": "Grilled Chicken Bowl (2 serving)",
+    "calories": 290,
+    "protein": 14,
+    "carbs": 45,
+    "fats": 6,
+    "category": "Lunch"
+  },
+  {
+    "name": "Rice Crackers (3 servings)",
+    "calories": 303,
+    "protein": 22,
+    "carbs": 38,
+    "fats": 7,
+    "category": "Snack"
+  },
+  {
+    "name": "Stuffed Peppers (1 serving)",
+    "calories": 271,
+    "protein": 27,
+    "carbs": 34,
+    "fats": 3,
+    "category": "Dinner"
+  },
+  {
+    "name": "Broccoli Soup (3 serving)",
+    "calories": 81,
+    "protein": 13,
+    "carbs": 5,
+    "fats": 1,
+    "category": "Lunch"
+  },
+  {
+    "name": "Paneer Wrap (3 serving)",
+    "calories": 381,
+    "protein": 18,
+    "carbs": 39,
+    "fats": 17,
+    "category": "Lunch"
+  },
+  {
+    "name": "Grilled Tilapia (3 servings)",
+    "calories": 376,
+    "protein": 20,
+    "carbs": 38,
+    "fats": 16,
+    "category": "Dinner"
+  },
+  {
+    "name": "Stuffed Peppers (1 servings)",
+    "calories": 383,
+    "protein": 27,
+    "carbs": 26,
+    "fats": 19,
+    "category": "Dinner"
+  },
+  {
+    "name": "Avocado Smoothie (3 servings)",
+    "calories": 237,
+    "protein": 8,
+    "carbs": 31,
+    "fats": 9,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Stuffed Peppers (2 serving)",
+    "calories": 306,
+    "protein": 14,
+    "carbs": 22,
+    "fats": 18,
+    "category": "Dinner"
+  },
+  {
+    "name": "Fruit Chips (2 serving)",
+    "calories": 165,
+    "protein": 8,
+    "carbs": 31,
+    "fats": 1,
+    "category": "Snack"
+  },
+  {
+    "name": "Tofu Curry (2 servings)",
+    "calories": 332,
+    "protein": 20,
+    "carbs": 18,
+    "fats": 20,
+    "category": "Dinner"
+  },
+  {
+    "name": "Mutton Curry (2 serving)",
+    "calories": 318,
+    "protein": 28,
+    "carbs": 47,
+    "fats": 2,
+    "category": "Dinner"
+  },
+  {
+    "name": "Paneer Wrap (3 servings)",
+    "calories": 339,
+    "protein": 22,
+    "carbs": 29,
+    "fats": 15,
+    "category": "Lunch"
+  },
+  {
+    "name": "Tofu Curry (3 serving)",
+    "calories": 267,
+    "protein": 26,
+    "carbs": 25,
+    "fats": 7,
+    "category": "Dinner"
+  },
+  {
+    "name": "Turkey Sandwich (3 serving)",
+    "calories": 241,
+    "protein": 14,
+    "carbs": 44,
+    "fats": 1,
+    "category": "Lunch"
+  },
+  {
+    "name": "Banana Pancakes (2 servings)",
+    "calories": 199,
+    "protein": 4,
+    "carbs": 21,
+    "fats": 11,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Boiled Eggs (3 servings)",
+    "calories": 170,
+    "protein": 10,
+    "carbs": 1,
+    "fats": 14,
+    "category": "Snack"
+  },
+  {
+    "name": "Broccoli Soup (3 servings)",
+    "calories": 375,
+    "protein": 12,
+    "carbs": 48,
+    "fats": 15,
+    "category": "Lunch"
+  },
+  {
+    "name": "Grilled Chicken Bowl (2 servings)",
+    "calories": 100,
+    "protein": 14,
+    "carbs": 2,
+    "fats": 4,
+    "category": "Lunch"
+  },
+  {
+    "name": "Broccoli Soup (2 serving)",
+    "calories": 132,
+    "protein": 23,
+    "carbs": 1,
+    "fats": 4,
+    "category": "Lunch"
+  },
+  {
+    "name": "Rice Crackers (3 serving)",
+    "calories": 214,
+    "protein": 20,
+    "carbs": 29,
+    "fats": 2,
+    "category": "Snack"
+  },
+  {
+    "name": "Tofu Curry (2 serving)",
+    "calories": 351,
+    "protein": 22,
+    "carbs": 23,
+    "fats": 19,
+    "category": "Dinner"
+  },
+  {
+    "name": "Cottage Cheese Toast (3 servings)",
+    "calories": 322,
+    "protein": 10,
+    "carbs": 48,
+    "fats": 10,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Cottage Cheese Toast (3 serving)",
+    "calories": 56,
+    "protein": 5,
+    "carbs": 0,
+    "fats": 4,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Grilled Tilapia (1 servings)",
+    "calories": 259,
+    "protein": 19,
+    "carbs": 12,
+    "fats": 15,
+    "category": "Dinner"
+  },
+  {
+    "name": "Broccoli Soup (3 serving)",
+    "calories": 254,
+    "protein": 2,
+    "carbs": 21,
+    "fats": 18,
+    "category": "Lunch"
+  },
+  {
+    "name": "Peanut Butter Balls (3 servings)",
+    "calories": 124,
+    "protein": 8,
+    "carbs": 14,
+    "fats": 4,
+    "category": "Snack"
+  },
+  {
+    "name": "Mutton Curry (1 serving)",
+    "calories": 126,
+    "protein": 13,
+    "carbs": 14,
+    "fats": 2,
+    "category": "Dinner"
+  },
+  {
+    "name": "Spinach Omelette (3 servings)",
+    "calories": 291,
+    "protein": 21,
+    "carbs": 36,
+    "fats": 7,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Stuffed Peppers (1 servings)",
+    "calories": 287,
+    "protein": 21,
+    "carbs": 26,
+    "fats": 11,
+    "category": "Dinner"
+  },
+  {
+    "name": "Cottage Cheese Toast (1 serving)",
+    "calories": 150,
+    "protein": 7,
+    "carbs": 8,
+    "fats": 10,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Spinach Omelette (2 servings)",
+    "calories": 212,
+    "protein": 30,
+    "carbs": 14,
+    "fats": 4,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Banana Pancakes (2 servings)",
+    "calories": 358,
+    "protein": 13,
+    "carbs": 36,
+    "fats": 18,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Turkey Sandwich (3 serving)",
+    "calories": 193,
+    "protein": 20,
+    "carbs": 17,
+    "fats": 5,
+    "category": "Lunch"
+  },
+  {
+    "name": "Chicken Alfredo (1 serving)",
+    "calories": 300,
+    "protein": 21,
+    "carbs": 9,
+    "fats": 20,
+    "category": "Dinner"
+  },
+  {
+    "name": "Spinach Omelette (1 serving)",
+    "calories": 351,
+    "protein": 24,
+    "carbs": 48,
+    "fats": 7,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Fruit Crepes (1 servings)",
+    "calories": 452,
+    "protein": 29,
+    "carbs": 48,
+    "fats": 16,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Fruit Crepes (3 serving)",
+    "calories": 86,
+    "protein": 6,
+    "carbs": 11,
+    "fats": 2,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Boiled Eggs (2 servings)",
+    "calories": 297,
+    "protein": 23,
+    "carbs": 31,
+    "fats": 9,
+    "category": "Snack"
+  },
+  {
+    "name": "Grilled Chicken Bowl (2 servings)",
+    "calories": 248,
+    "protein": 26,
+    "carbs": 0,
+    "fats": 16,
+    "category": "Lunch"
+  },
+  {
+    "name": "Rice Crackers (3 serving)",
+    "calories": 372,
+    "protein": 24,
+    "carbs": 24,
+    "fats": 20,
+    "category": "Snack"
+  },
+  {
+    "name": "Fruit Chips (3 serving)",
+    "calories": 82,
+    "protein": 14,
+    "carbs": 2,
+    "fats": 2,
+    "category": "Snack"
+  },
+  {
+    "name": "Zucchini Lasagna (1 serving)",
+    "calories": 331,
+    "protein": 27,
+    "carbs": 13,
+    "fats": 19,
+    "category": "Lunch"
+  },
+  {
+    "name": "Fruit Crepes (1 servings)",
+    "calories": 243,
+    "protein": 13,
+    "carbs": 5,
+    "fats": 19,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Mutton Curry (1 serving)",
+    "calories": 225,
+    "protein": 6,
+    "carbs": 12,
+    "fats": 17,
+    "category": "Dinner"
+  },
+  {
+    "name": "Peanut Butter Balls (2 serving)",
+    "calories": 289,
+    "protein": 22,
+    "carbs": 12,
+    "fats": 17,
+    "category": "Snack"
+  },
+  {
+    "name": "Spinach Omelette (1 servings)",
+    "calories": 167,
+    "protein": 3,
+    "carbs": 14,
+    "fats": 11,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Paneer Wrap (2 servings)",
+    "calories": 80,
+    "protein": 18,
+    "carbs": 2,
+    "fats": 0,
+    "category": "Lunch"
+  },
+  {
+    "name": "Grilled Tilapia (2 servings)",
+    "calories": 237,
+    "protein": 11,
+    "carbs": 37,
+    "fats": 5,
+    "category": "Dinner"
+  },
+  {
+    "name": "Boiled Eggs (3 serving)",
+    "calories": 267,
+    "protein": 26,
+    "carbs": 7,
+    "fats": 15,
+    "category": "Snack"
+  },
+  {
+    "name": "Rice Crackers (3 serving)",
+    "calories": 200,
+    "protein": 10,
+    "carbs": 13,
+    "fats": 12,
+    "category": "Snack"
+  },
+  {
+    "name": "Boiled Eggs (1 servings)",
+    "calories": 200,
+    "protein": 20,
+    "carbs": 30,
+    "fats": 0,
+    "category": "Snack"
+  },
+  {
+    "name": "Fruit Crepes (1 servings)",
+    "calories": 210,
+    "protein": 14,
+    "carbs": 25,
+    "fats": 6,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Broccoli Soup (1 serving)",
+    "calories": 117,
+    "protein": 8,
+    "carbs": 19,
+    "fats": 1,
+    "category": "Lunch"
+  },
+  {
+    "name": "Rice Crackers (2 serving)",
+    "calories": 215,
+    "protein": 19,
+    "carbs": 19,
+    "fats": 7,
+    "category": "Snack"
+  },
+  {
+    "name": "Broccoli Soup (1 serving)",
+    "calories": 442,
+    "protein": 27,
+    "carbs": 43,
+    "fats": 18,
+    "category": "Lunch"
+  },
+  {
+    "name": "Zucchini Lasagna (3 servings)",
+    "calories": 274,
+    "protein": 14,
+    "carbs": 23,
+    "fats": 14,
+    "category": "Lunch"
+  },
+  {
+    "name": "Nut Mix (2 servings)",
+    "calories": 153,
+    "protein": 4,
+    "carbs": 23,
+    "fats": 5,
+    "category": "Snack"
+  },
+  {
+    "name": "Rice Crackers (1 serving)",
+    "calories": 215,
+    "protein": 25,
+    "carbs": 22,
+    "fats": 3,
+    "category": "Snack"
+  },
+  {
+    "name": "Chicken Alfredo (1 servings)",
+    "calories": 258,
+    "protein": 14,
+    "carbs": 37,
+    "fats": 6,
+    "category": "Dinner"
+  },
+  {
+    "name": "Banana Pancakes (3 servings)",
+    "calories": 303,
+    "protein": 12,
+    "carbs": 21,
+    "fats": 19,
+    "category": "Breakfast"
+  },
+  {
+    "name": "Grilled Tilapia (1 servings)",
+    "calories": 375,
+    "protein": 30,
+    "carbs": 21,
+    "fats": 19,
+    "category": "Dinner"
+  },
+  {
+    "name": "Rice Crackers (3 servings)",
+    "calories": 204,
+    "protein": 7,
+    "carbs": 8,
+    "fats": 16,
+    "category": "Snack"
+  },
+  {
+    "name": "Tofu Curry (3 servings)",
+    "calories": 403,
+    "protein": 8,
+    "carbs": 50,
+    "fats": 19,
+    "category": "Dinner"
+  }
+]
